@@ -1,0 +1,18 @@
+#background {
+    background-color: navy;
+    width: 500px;
+    height: 450px;
+    position: relative;
+    left: 25%;
+    text-align: center;
+
+}
+
+#bar{
+    background-color: red;
+    width: 50px;
+    height: 25px;
+    left: 0px;
+    position: absolute;
+    bottom: 0px;
+}
